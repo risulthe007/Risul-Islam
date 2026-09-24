@@ -1,8 +1,6 @@
 # Lasers and Feelings Companion App
-
 ## Background
 Lasers and Feelings is a quick roleplaying game. You play as the crew of a spaceship called Raptor. Your job is to explore space, meet aliens, and protect your home worlds from danger. The captain is out of action, so the crew has to handle things on their own.
-
 ## Introduction
 The GM (game master) runs the game and needs software to help during play. The main thing needed is a way to roll dice, since dice rolls decide if actions succeed or fail. Other helpful features could be things like showing character info, ship info, or helping the GM run the story.
 
