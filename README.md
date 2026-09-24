@@ -5,8 +5,11 @@ Lasers and Feelings is a quick roleplaying game. You play as the crew of a space
 The GM (game master) runs the game and needs software to help during play. The main thing needed is a way to roll dice, since dice rolls decide if actions succeed or fail. Other helpful features could be things like showing character info, ship info, or helping the GM run the story.
 
 ## Dictionary
+
 GM - the person running the game session
+
 Player - a person playing as one of the crew members
+
 Dice roll - a random roll used to decide if something succeeds
 
 ## Requirements
