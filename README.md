@@ -1,3 +1,5 @@
+### Software Engineering Course Project, Fall 2026
+### Risul Islam
 # Lasers and Feelings Companion App
 ## Background
 Lasers and Feelings is a quick roleplaying game. You play as the crew of a spaceship called Raptor. Your job is to explore space, meet aliens, and protect your home worlds from danger. The captain is out of action, so the crew has to handle things on their own.
