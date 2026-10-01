@@ -22,4 +22,4 @@ These are written as user stories.
 - As a player, I want to see my character stats, so I know what number I need to roll under.
 - As a player, I want to know what my crew role is, so I understand what I am good at during the game.
 - As a GM, I want to see all player info in one place, so I can run the game more easily.
-- As a GM, I want to set the difficulty of a challenge, so the dice roll reflects how hard the task is.
+- As a GM, I want to set the difficulty of a challenge, so the dice roll reflects how hard the task is. 
