@@ -1,3 +1,5 @@
+### Software Engineering Course Project, Fall 2026
+### Risul Islam
 # Lasers and Feelings Companion App
 ## Background
 Lasers and Feelings is a quick roleplaying game. You play as the crew of a spaceship called Raptor. Your job is to explore space, meet aliens, and protect your home worlds from danger. The captain is out of action, so the crew has to handle things on their own.
@@ -18,4 +20,6 @@ These are written as user stories.
 - As a player, I want to roll a dice, so I know if I succeed or fail at what I am trying to do.
 - As a GM, I want to use the app in a normal web browser, so it is easy for everyone to access.
 - As a player, I want to see my character stats, so I know what number I need to roll under.
+- As a player, I want to know what my crew role is, so I understand what I am good at during the game.
 - As a GM, I want to see all player info in one place, so I can run the game more easily.
+- As a GM, I want to set the difficulty of a challenge, so the dice roll reflects how hard the task is.
