@@ -37,3 +37,6 @@ These are written as user stories.
 - (Done) As a GM, I want to be able to use the software in a modern web browser, because they are easy to use and easily available.
 - (Done) As a player, I want to be able to give my character a name, because I want to immersed into the game.
 - (Done) As a player, I want to to be able to choose a style and role for my character, so I can remember them.
+## Published application
+
+[Lasers and Feelings Companion App](file:///H:/ch/Risul-Islam/index.html)
