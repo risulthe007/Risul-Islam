@@ -17,6 +17,29 @@
 <input type="text" id="charName" placeholder="Enter a name">
 <button onclick="setName()">Set name</button>
 <p id="nameDisplay"></p>
+<br>
+<label for="charStyle">Style:</label>
+<select id="charStyle">
+  <option>Alien</option>
+  <option>Android</option>
+  <option>Dangerous</option>
+  <option>Heroic</option>
+  <option>Hot-Headed</option>
+  <option>Intrepid</option>
+  <option>Savvy</option>
+</select>
+
+<label for="charRole">Role:</label>
+<select id="charRole">
+  <option>Doctor</option>
+  <option>Envoy</option>
+  <option>Engineer</option>
+  <option>Explorer</option>
+  <option>Pilot</option>
+  <option>Science Officer</option>
+</select>
+<button onclick="setStyleRole()">Set style and role</button>
+<p id="styleRoleDisplay"></p>
 
 <h2>GM</h2>
 <button onclick="rollGMDice()">Roll Dice</button>
@@ -35,6 +58,11 @@ function setName() {
     return;
   }
   document.getElementById("nameDisplay").innerHTML = "Your character is " + name + ".";
+}
+function setStyleRole() {
+  var style = document.getElementById("charStyle").value;
+  var role = document.getElementById("charRole").value;
+  document.getElementById("styleRoleDisplay").innerHTML = "Style: " + style + ", Role: " + role;
 }
 
 function rollGMDice() {
