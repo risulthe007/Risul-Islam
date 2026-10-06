@@ -12,6 +12,11 @@
 <input type="number" id="playerNumber" value="3">
 <button onclick="rollPlayerDice()">Roll Dice</button>
 <p id="playerResult"></p>
+<h3>Character</h3>
+<label for="charName">Character name:</label>
+<input type="text" id="charName" placeholder="Enter a name">
+<button onclick="setName()">Set name</button>
+<p id="nameDisplay"></p>
 
 <h2>GM</h2>
 <button onclick="rollGMDice()">Roll Dice</button>
@@ -22,6 +27,14 @@ function rollPlayerDice() {
   var roll = Math.floor(Math.random() * 6) + 1;
   var number = document.getElementById("playerNumber").value;
   document.getElementById("playerResult").innerHTML = "You rolled " + roll + " and your number is " + number;
+}
+function setName() {
+  var name = document.getElementById("charName").value.trim();
+  if (name === "") {
+    document.getElementById("nameDisplay").innerHTML = "Please enter a name.";
+    return;
+  }
+  document.getElementById("nameDisplay").innerHTML = "Your character is " + name + ".";
 }
 
 function rollGMDice() {
