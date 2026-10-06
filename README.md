@@ -39,4 +39,4 @@ These are written as user stories.
 - (Done) As a player, I want to to be able to choose a style and role for my character, so I can remember them.
 ## Published application
 
-[Lasers and Feelings Companion App](file:///H:/ch/Risul-Islam/index.html)
+[Lasers and Feelings Companion App](https://risulthe007.github.io/Risul-Islam/)
