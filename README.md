@@ -35,5 +35,5 @@ These are written as user stories.
 - (Done) As a player, I want to be able to set my number, so I can compare it with the result of my dice throw.
 - (Done) As a GM, I want to be able to throw a dice, so I can create a random adventure.
 - (Not started) As a GM, I want to be able to use the software in a modern web browser, because they are easy to use and easily available.
-- (Not started) As a player, I want to be able to give my character a name, because I want to immersed into the game.
+- (In progress) As a player, I want to be able to give my character a name, because I want to immersed into the game.
 - (Not started) As a player, I want to to be able to choose a style and role for my character, so I can remember them.
