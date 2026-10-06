@@ -25,18 +25,15 @@ These are written as user stories.
 - As a GM, I want to set the difficulty of a challenge, so the dice roll reflects how hard the task is. 
 ## Product backlog
 
-- As a player, I want to throw a dice, because the result of the throw determines if I succeed or not in whatever I am trying to do.
-- As a player, I want to set my number, so I can compare it with the result of my dice throw.
-- As a GM, I want to throw a dice, so I can create a random adventure.
-- As a GM, I want to use the software in a modern web browser, because they are easy to use and easily available.
-- As a player, I want to give my character a name, because I want to be immersed into the game.
-- As a player, I want to choose a style and role for my character, so I can remember them.
-- As a player, I want the software to save my information (number, name, style and role), so I can use them in multiple playing sessions.
-- As a GM, I want to see all player info in one place, so I can run the game more easily.
-- As a GM, I want to set the difficulty of a challenge, so the dice roll reflects how hard the task is.
+1. As a player, I want the software to save my information (number, name, style and role), so I can use them in multiple playing sessions.
+2. As a GM, I want to see all player info in one place, so I can run the game more easily.
+3. As a GM, I want to set the difficulty of a challenge, so the dice roll reflects how hard the task is.
 
 ## Sprint 1 backlog
 
-- (Done) As a player, I want to throw a dice, because the result of the throw determines if I succeed or not in whatever I am trying to do.
-- (Done) As a player, I want to set my number, so I can compare it with the result of my dice throw.
-- (Done) As a GM, I want to throw a dice, so I can create a random adventure.
+- (Done) As a player, I want to be able to throw a dice, because the result of the throw determines if I succeed or not in whatever I am trying to do.
+- (Done) As a player, I want to be able to set my number, so I can compare it with the result of my dice throw.
+- (Done) As a GM, I want to be able to throw a dice, so I can create a random adventure.
+- (Not started) As a GM, I want to be able to use the software in a modern web browser, because they are easy to use and easily available.
+- (Not started) As a player, I want to be able to give my character a name, because I want to immersed into the game.
+- (Not started) As a player, I want to to be able to choose a style and role for my character, so I can remember them.
